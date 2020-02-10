@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+
+  }
+  #logo {
+  }
+  #logo:hover{
+      background:transparent;
+      color:black;
+      transform:scale(1.50,1.50) !important;
+  }
